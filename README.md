@@ -6,6 +6,7 @@ My Leet code solutions
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/shivathaya/LeetCodeSOls/tree/master/1833-find-the-highest-altitude) |
@@ -22,6 +23,7 @@ My Leet code solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivathaya/LeetCodeSOls/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
