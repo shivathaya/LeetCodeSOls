@@ -15,6 +15,7 @@ My Leet code solutions
 | [0724-find-pivot-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivathaya/LeetCodeSOls/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/shivathaya/LeetCodeSOls/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
