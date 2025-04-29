@@ -90,6 +90,7 @@ My Leet code solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -100,6 +101,7 @@ My Leet code solutions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Design
 |  |
@@ -125,4 +127,8 @@ My Leet code solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
