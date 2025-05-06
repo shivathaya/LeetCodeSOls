@@ -14,6 +14,7 @@ My Leet code solutions
 | [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivathaya/LeetCodeSOls/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -92,6 +93,7 @@ My Leet code solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
