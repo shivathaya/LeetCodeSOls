@@ -95,6 +95,7 @@ My Leet code solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shivathaya/LeetCodeSOls/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
@@ -112,6 +113,7 @@ My Leet code solutions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -171,4 +173,8 @@ My Leet code solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivathaya/LeetCodeSOls/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
