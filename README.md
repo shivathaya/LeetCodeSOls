@@ -7,6 +7,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0011-container-with-most-water) |
+| [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/shivathaya/LeetCodeSOls/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/shivathaya/LeetCodeSOls/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ My Leet code solutions
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -96,6 +98,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shivathaya/LeetCodeSOls/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
