@@ -25,6 +25,7 @@ My Leet code solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/shivathaya/LeetCodeSOls/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
+| [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +82,7 @@ My Leet code solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +131,7 @@ My Leet code solutions
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1236-n-th-tribonacci-number) |
+| [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 ## Design
 |  |
 | ------- |
