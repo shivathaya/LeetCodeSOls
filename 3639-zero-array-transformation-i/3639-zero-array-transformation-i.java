@@ -6,12 +6,12 @@ class Solution {
         for(int[] query: queries){
             int l = query[0];
             int r = query[1];
-
+//diff array used
             diff[l] += 1;
             if(r+1 <n)
                 diff[r+1] -=1;
         }
-
+// prefix sum use 
         int[] ops = new int[n];
         ops[0] = diff[0];
 
