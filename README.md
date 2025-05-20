@@ -26,6 +26,7 @@ My Leet code solutions
 | [1833-find-the-highest-altitude](https://github.com/shivathaya/LeetCodeSOls/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My Leet code solutions
 | [0724-find-pivot-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/shivathaya/LeetCodeSOls/tree/master/1833-find-the-highest-altitude) |
+| [3639-zero-array-transformation-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
