@@ -124,6 +124,7 @@ My Leet code solutions
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -172,6 +173,7 @@ My Leet code solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
@@ -181,6 +183,7 @@ My Leet code solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
@@ -195,6 +198,7 @@ My Leet code solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
