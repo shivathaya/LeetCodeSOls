@@ -189,6 +189,7 @@ My Leet code solutions
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/shivathaya/LeetCodeSOls/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivathaya/LeetCodeSOls/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -224,6 +225,7 @@ My Leet code solutions
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/shivathaya/LeetCodeSOls/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivathaya/LeetCodeSOls/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -241,6 +243,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/shivathaya/LeetCodeSOls/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0783-search-in-a-binary-search-tree) |
 ## Counting
 |  |
