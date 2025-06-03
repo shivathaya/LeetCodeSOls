@@ -205,6 +205,7 @@ My Leet code solutions
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/shivathaya/LeetCodeSOls/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/shivathaya/LeetCodeSOls/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/shivathaya/LeetCodeSOls/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -215,6 +216,7 @@ My Leet code solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/shivathaya/LeetCodeSOls/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/shivathaya/LeetCodeSOls/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -254,10 +256,15 @@ My Leet code solutions
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/shivathaya/LeetCodeSOls/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/shivathaya/LeetCodeSOls/tree/master/0871-keys-and-rooms) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shivathaya/LeetCodeSOls/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
