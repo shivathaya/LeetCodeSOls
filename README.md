@@ -68,6 +68,7 @@ My Leet code solutions
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2470-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2470-removing-stars-from-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ My Leet code solutions
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +261,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
 |  |
 | ------- |
