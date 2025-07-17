@@ -6,6 +6,7 @@ My Leet code solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
@@ -74,6 +75,7 @@ My Leet code solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
