@@ -60,6 +60,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivathaya/LeetCodeSOls/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
@@ -92,6 +93,7 @@ My Leet code solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0283-move-zeroes) |
@@ -135,6 +137,7 @@ My Leet code solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
