@@ -10,6 +10,7 @@ My Leet code solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/shivathaya/LeetCodeSOls/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
@@ -117,6 +118,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shivathaya/LeetCodeSOls/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
@@ -166,6 +168,7 @@ My Leet code solutions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
