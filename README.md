@@ -70,6 +70,7 @@ My Leet code solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivathaya/LeetCodeSOls/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/shivathaya/LeetCodeSOls/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
@@ -92,6 +93,7 @@ My Leet code solutions
 | ------- |
 | [0001-two-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivathaya/LeetCodeSOls/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shivathaya/LeetCodeSOls/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shivathaya/LeetCodeSOls/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
@@ -185,6 +187,7 @@ My Leet code solutions
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivathaya/LeetCodeSOls/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
