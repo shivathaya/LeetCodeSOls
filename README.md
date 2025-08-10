@@ -73,6 +73,7 @@ My Leet code solutions
 | [0012-integer-to-roman](https://github.com/shivathaya/LeetCodeSOls/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/shivathaya/LeetCodeSOls/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
