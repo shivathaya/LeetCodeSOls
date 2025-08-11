@@ -9,6 +9,7 @@ My Leet code solutions
 | [0001-two-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/shivathaya/LeetCodeSOls/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0045-jump-game-ii) |
@@ -72,6 +73,7 @@ My Leet code solutions
 | [0005-longest-palindromic-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shivathaya/LeetCodeSOls/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivathaya/LeetCodeSOls/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
@@ -363,4 +365,8 @@ My Leet code solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
