@@ -18,6 +18,7 @@ My Leet code solutions
 | [0054-spiral-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/shivathaya/LeetCodeSOls/tree/master/0134-gas-station) |
@@ -78,6 +79,7 @@ My Leet code solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivathaya/LeetCodeSOls/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
@@ -150,6 +152,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2470-removing-stars-from-a-string) |
