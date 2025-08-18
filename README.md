@@ -81,6 +81,7 @@ My Leet code solutions
 | [0058-length-of-last-word](https://github.com/shivathaya/LeetCodeSOls/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
@@ -119,6 +120,7 @@ My Leet code solutions
 | [0011-container-with-most-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
