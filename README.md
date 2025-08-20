@@ -23,6 +23,7 @@ My Leet code solutions
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/shivathaya/LeetCodeSOls/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivathaya/LeetCodeSOls/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shivathaya/LeetCodeSOls/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/shivathaya/LeetCodeSOls/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
@@ -59,6 +60,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -122,6 +124,7 @@ My Leet code solutions
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
