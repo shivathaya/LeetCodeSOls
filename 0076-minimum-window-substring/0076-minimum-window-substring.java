@@ -8,27 +8,30 @@ class Solution {
         if (t == "" || s.length() < t.length()) return "";
         Map<Character, Integer> window = new HashMap<>();
         Map<Character, Integer> needT = new HashMap<>();
-
+        // insert the need hash map with char and count required
         for(char c : t.toCharArray()){
             needT.put(c, needT.getOrDefault(c,0)+1);
         }
-
-        // we will check if have>= need
         int have = 0;
         int need = needT.size();
         int r=0, l=0;
         int start=0, minL = Integer.MAX_VALUE;
+        //expand window
         while(r < s.length()){
             char c = s.charAt(r);
             r++;
+            // if the char at r is needed then we updagte the count in window
             if(needT.containsKey(c)){
                 window.put(c,window.getOrDefault(c,0)+1);
-
+                
+                // int value added for 1 cond where the length of window is too large 
                 if(needT.get(c).intValue() == window.get(c).intValue())
+                //if a perticular char need count is fulfilled then increase the have 
                     have +=1;
             }
             //update the result length
             while(have == need){
+                //if all needed char are got then
                 if(r-l < minL){
                     // store start and minlen for resulr substring --> [start, start+minLen]
                     start = l;
@@ -40,6 +43,7 @@ class Solution {
                 // do -ve if the valid char is removed from left
                 if(needT.containsKey(lft)){
                     if(needT.get(lft).intValue() == window.get(lft).intValue())
+                    //remove the value from window and now we do not have this char as per need anymore
                         have -=1;
                     window.put(lft,window.getOrDefault(lft,0)-1);
                 }
