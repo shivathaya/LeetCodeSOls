@@ -26,6 +26,7 @@ My Leet code solutions
 | [0135-candy](https://github.com/shivathaya/LeetCodeSOls/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shivathaya/LeetCodeSOls/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shivathaya/LeetCodeSOls/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ My Leet code solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shivathaya/LeetCodeSOls/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
@@ -62,11 +64,13 @@ My Leet code solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivathaya/LeetCodeSOls/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivathaya/LeetCodeSOls/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
