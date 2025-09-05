@@ -94,6 +94,7 @@ My Leet code solutions
 | [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shivathaya/LeetCodeSOls/tree/master/0399-evaluate-division) |
@@ -118,6 +119,7 @@ My Leet code solutions
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -335,6 +337,7 @@ My Leet code solutions
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
