@@ -94,6 +94,7 @@ My Leet code solutions
 | [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shivathaya/LeetCodeSOls/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
@@ -121,6 +122,7 @@ My Leet code solutions
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shivathaya/LeetCodeSOls/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
@@ -154,6 +156,7 @@ My Leet code solutions
 | ------- |
 | [0015-3sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
