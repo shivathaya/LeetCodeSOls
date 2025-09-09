@@ -22,6 +22,7 @@ My Leet code solutions
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shivathaya/LeetCodeSOls/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivathaya/LeetCodeSOls/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +124,7 @@ My Leet code solutions
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0219-contains-duplicate-ii) |
@@ -368,6 +370,7 @@ My Leet code solutions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/shivathaya/LeetCodeSOls/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shivathaya/LeetCodeSOls/tree/master/0547-number-of-provinces) |
 ## Shortest Path
