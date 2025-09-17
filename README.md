@@ -17,6 +17,7 @@ My Leet code solutions
 | [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/shivathaya/LeetCodeSOls/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
@@ -166,6 +167,7 @@ My Leet code solutions
 | ------- |
 | [0015-3sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shivathaya/LeetCodeSOls/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
