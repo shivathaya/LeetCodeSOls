@@ -97,6 +97,7 @@ My Leet code solutions
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivathaya/LeetCodeSOls/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/shivathaya/LeetCodeSOls/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
@@ -233,6 +234,7 @@ My Leet code solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivathaya/LeetCodeSOls/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shivathaya/LeetCodeSOls/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
