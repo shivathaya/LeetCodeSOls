@@ -104,6 +104,7 @@ My Leet code solutions
 | [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shivathaya/LeetCodeSOls/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
@@ -239,6 +240,7 @@ My Leet code solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathaya/LeetCodeSOls/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivathaya/LeetCodeSOls/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -253,6 +255,7 @@ My Leet code solutions
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathaya/LeetCodeSOls/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -285,6 +288,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
 ## Memoization
