@@ -133,6 +133,7 @@ My Leet code solutions
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/0205-isomorphic-strings) |
@@ -282,6 +283,7 @@ My Leet code solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivathaya/LeetCodeSOls/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0328-odd-even-linked-list) |
