@@ -117,6 +117,7 @@ My Leet code solutions
 | [0649-dota2-senate](https://github.com/shivathaya/LeetCodeSOls/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivathaya/LeetCodeSOls/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/shivathaya/LeetCodeSOls/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1894-merge-strings-alternately](https://github.com/shivathaya/LeetCodeSOls/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -265,6 +266,7 @@ My Leet code solutions
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1236-n-th-tribonacci-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/shivathaya/LeetCodeSOls/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 ## Design
 |  |
