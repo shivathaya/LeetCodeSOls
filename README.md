@@ -60,6 +60,7 @@ My Leet code solutions
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shivathaya/LeetCodeSOls/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3639-zero-array-transformation-i) |
@@ -155,6 +156,7 @@ My Leet code solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -193,6 +195,7 @@ My Leet code solutions
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivathaya/LeetCodeSOls/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -215,6 +218,7 @@ My Leet code solutions
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/shivathaya/LeetCodeSOls/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
