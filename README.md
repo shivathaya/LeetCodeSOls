@@ -54,6 +54,7 @@ My Leet code solutions
 | [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/shivathaya/LeetCodeSOls/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivathaya/LeetCodeSOls/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shivathaya/LeetCodeSOls/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -200,6 +201,7 @@ My Leet code solutions
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivathaya/LeetCodeSOls/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
@@ -238,6 +240,7 @@ My Leet code solutions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivathaya/LeetCodeSOls/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/shivathaya/LeetCodeSOls/tree/master/0649-dota2-senate) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Dynamic Programming
 |  |
@@ -255,6 +258,7 @@ My Leet code solutions
 | [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/1236-n-th-tribonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Stack
 |  |
