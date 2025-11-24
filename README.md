@@ -52,6 +52,7 @@ My Leet code solutions
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shivathaya/LeetCodeSOls/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/shivathaya/LeetCodeSOls/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -483,6 +484,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shivathaya/LeetCodeSOls/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivathaya/LeetCodeSOls/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Enumeration
 |  |
