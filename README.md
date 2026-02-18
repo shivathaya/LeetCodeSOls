@@ -28,6 +28,7 @@ My Leet code solutions
 | [0128-longest-consecutive-sequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shivathaya/LeetCodeSOls/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivathaya/LeetCodeSOls/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathaya/LeetCodeSOls/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shivathaya/LeetCodeSOls/tree/master/0198-house-robber) |
@@ -487,6 +488,7 @@ My Leet code solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivathaya/LeetCodeSOls/tree/master/0338-counting-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivathaya/LeetCodeSOls/tree/master/1018-binary-prefix-divisible-by-5) |
