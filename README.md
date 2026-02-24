@@ -87,6 +87,7 @@ My Leet code solutions
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/shivathaya/LeetCodeSOls/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -506,4 +507,8 @@ My Leet code solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shivathaya/LeetCodeSOls/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
