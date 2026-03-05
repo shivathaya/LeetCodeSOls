@@ -53,6 +53,7 @@ My Leet code solutions
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivathaya/LeetCodeSOls/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/shivathaya/LeetCodeSOls/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
@@ -76,6 +77,7 @@ My Leet code solutions
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shivathaya/LeetCodeSOls/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/shivathaya/LeetCodeSOls/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivathaya/LeetCodeSOls/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -89,6 +91,7 @@ My Leet code solutions
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivathaya/LeetCodeSOls/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivathaya/LeetCodeSOls/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
@@ -99,6 +102,7 @@ My Leet code solutions
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivathaya/LeetCodeSOls/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
