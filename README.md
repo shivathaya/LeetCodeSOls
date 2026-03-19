@@ -22,6 +22,7 @@ My Leet code solutions
 | [0057-insert-interval](https://github.com/shivathaya/LeetCodeSOls/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/shivathaya/LeetCodeSOls/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
@@ -298,6 +299,7 @@ My Leet code solutions
 | [0013-roman-to-integer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/shivathaya/LeetCodeSOls/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathaya/LeetCodeSOls/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0202-happy-number) |
