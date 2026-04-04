@@ -105,6 +105,7 @@ My Leet code solutions
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathaya/LeetCodeSOls/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
@@ -139,6 +140,7 @@ My Leet code solutions
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shivathaya/LeetCodeSOls/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathaya/LeetCodeSOls/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shivathaya/LeetCodeSOls/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/shivathaya/LeetCodeSOls/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -174,6 +176,7 @@ My Leet code solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathaya/LeetCodeSOls/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivathaya/LeetCodeSOls/tree/master/1930-unique-length-3-palindromic-subsequences) |
