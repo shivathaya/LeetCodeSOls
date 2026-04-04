@@ -55,6 +55,7 @@ My Leet code solutions
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivathaya/LeetCodeSOls/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/shivathaya/LeetCodeSOls/tree/master/1036-rotting-oranges) |
@@ -200,6 +201,7 @@ My Leet code solutions
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shivathaya/LeetCodeSOls/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/shivathaya/LeetCodeSOls/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -217,6 +219,7 @@ My Leet code solutions
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivathaya/LeetCodeSOls/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
