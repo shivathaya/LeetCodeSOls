@@ -48,6 +48,7 @@ My Leet code solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/shivathaya/LeetCodeSOls/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivathaya/LeetCodeSOls/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/shivathaya/LeetCodeSOls/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivathaya/LeetCodeSOls/tree/master/0717-1-bit-and-2-bit-characters) |
