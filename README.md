@@ -65,6 +65,7 @@ My Leet code solutions
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shivathaya/LeetCodeSOls/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/shivathaya/LeetCodeSOls/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/1929-concatenation-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shivathaya/LeetCodeSOls/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -254,6 +255,7 @@ My Leet code solutions
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/shivathaya/LeetCodeSOls/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2470-removing-stars-from-a-string) |
