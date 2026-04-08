@@ -173,6 +173,7 @@ My Leet code solutions
 | [0128-longest-consecutive-sequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shivathaya/LeetCodeSOls/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0219-contains-duplicate-ii) |
@@ -336,6 +337,7 @@ My Leet code solutions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivathaya/LeetCodeSOls/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/shivathaya/LeetCodeSOls/tree/master/0969-number-of-recent-calls) |
@@ -357,6 +359,7 @@ My Leet code solutions
 | [0092-reverse-linked-list-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -556,4 +559,8 @@ My Leet code solutions
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shivathaya/LeetCodeSOls/tree/master/0374-guess-number-higher-or-lower) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
