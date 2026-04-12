@@ -507,6 +507,7 @@ My Leet code solutions
 | [1153-product-sales-analysis-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/1153-product-sales-analysis-i) |
 | [1193-monthly-transactions-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/1193-monthly-transactions-i) |
 | [1258-article-views-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/shivathaya/LeetCodeSOls/tree/master/1280-students-and-examinations) |
 | [1415-students-and-examinations](https://github.com/shivathaya/LeetCodeSOls/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/shivathaya/LeetCodeSOls/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shivathaya/LeetCodeSOls/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
