@@ -79,6 +79,7 @@ My Leet code solutions
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivathaya/LeetCodeSOls/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/shivathaya/LeetCodeSOls/tree/master/2542-maximum-subsequence-score) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
@@ -241,6 +242,7 @@ My Leet code solutions
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivathaya/LeetCodeSOls/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/shivathaya/LeetCodeSOls/tree/master/2542-maximum-subsequence-score) |
 | [3321-type-of-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -281,6 +283,7 @@ My Leet code solutions
 | [0649-dota2-senate](https://github.com/shivathaya/LeetCodeSOls/tree/master/0649-dota2-senate) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2542-maximum-subsequence-score](https://github.com/shivathaya/LeetCodeSOls/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -563,6 +566,7 @@ My Leet code solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/shivathaya/LeetCodeSOls/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
