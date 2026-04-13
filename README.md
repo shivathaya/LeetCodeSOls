@@ -193,6 +193,7 @@ My Leet code solutions
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -343,6 +344,7 @@ My Leet code solutions
 | [0155-min-stack](https://github.com/shivathaya/LeetCodeSOls/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/shivathaya/LeetCodeSOls/tree/master/0969-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -560,6 +562,7 @@ My Leet code solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -572,4 +575,8 @@ My Leet code solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
