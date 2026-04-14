@@ -13,6 +13,7 @@ My Leet code solutions
 | [0015-3sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivathaya/LeetCodeSOls/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/shivathaya/LeetCodeSOls/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shivathaya/LeetCodeSOls/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0045-jump-game-ii) |
@@ -97,6 +98,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/shivathaya/LeetCodeSOls/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
