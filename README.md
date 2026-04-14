@@ -332,6 +332,7 @@ My Leet code solutions
 | [0067-add-binary](https://github.com/shivathaya/LeetCodeSOls/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathaya/LeetCodeSOls/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
