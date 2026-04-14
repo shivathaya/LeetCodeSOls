@@ -315,6 +315,7 @@ My Leet code solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathaya/LeetCodeSOls/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivathaya/LeetCodeSOls/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
@@ -346,6 +347,7 @@ My Leet code solutions
 | ------- |
 | [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivathaya/LeetCodeSOls/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/shivathaya/LeetCodeSOls/tree/master/0969-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
@@ -396,6 +398,7 @@ My Leet code solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
@@ -445,6 +448,7 @@ My Leet code solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0437-path-sum-iii) |
@@ -467,6 +471,7 @@ My Leet code solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/shivathaya/LeetCodeSOls/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0783-search-in-a-binary-search-tree) |
 ## Counting
@@ -584,4 +589,8 @@ My Leet code solutions
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
