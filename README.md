@@ -99,6 +99,7 @@ My Leet code solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivathaya/LeetCodeSOls/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shivathaya/LeetCodeSOls/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
@@ -334,6 +335,7 @@ My Leet code solutions
 | [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shivathaya/LeetCodeSOls/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivathaya/LeetCodeSOls/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shivathaya/LeetCodeSOls/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathaya/LeetCodeSOls/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0172-factorial-trailing-zeroes) |
