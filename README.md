@@ -27,6 +27,7 @@ My Leet code solutions
 | [0066-plus-one](https://github.com/shivathaya/LeetCodeSOls/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0118-pascals-triangle) |
@@ -100,6 +101,7 @@ My Leet code solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivathaya/LeetCodeSOls/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivathaya/LeetCodeSOls/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
@@ -256,6 +258,7 @@ My Leet code solutions
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/shivathaya/LeetCodeSOls/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/shivathaya/LeetCodeSOls/tree/master/1036-rotting-oranges) |
