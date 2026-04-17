@@ -149,6 +149,7 @@ My Leet code solutions
 | [0290-word-pattern](https://github.com/shivathaya/LeetCodeSOls/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/shivathaya/LeetCodeSOls/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shivathaya/LeetCodeSOls/tree/master/0399-evaluate-division) |
@@ -189,6 +190,7 @@ My Leet code solutions
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/shivathaya/LeetCodeSOls/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathaya/LeetCodeSOls/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -240,6 +242,7 @@ My Leet code solutions
 | [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/shivathaya/LeetCodeSOls/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivathaya/LeetCodeSOls/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -568,6 +571,7 @@ My Leet code solutions
 | [0136-single-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivathaya/LeetCodeSOls/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/shivathaya/LeetCodeSOls/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivathaya/LeetCodeSOls/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivathaya/LeetCodeSOls/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Enumeration
