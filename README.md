@@ -17,6 +17,7 @@ My Leet code solutions
 | [0036-valid-sudoku](https://github.com/shivathaya/LeetCodeSOls/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/shivathaya/LeetCodeSOls/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0054-spiral-matrix) |
@@ -477,6 +478,7 @@ My Leet code solutions
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shivathaya/LeetCodeSOls/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shivathaya/LeetCodeSOls/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 ## Binary Search Tree
