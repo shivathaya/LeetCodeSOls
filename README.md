@@ -28,6 +28,7 @@ My Leet code solutions
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/shivathaya/LeetCodeSOls/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0118-pascals-triangle) |
@@ -476,6 +477,7 @@ My Leet code solutions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivathaya/LeetCodeSOls/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 ## Binary Search Tree
 |  |
@@ -568,6 +570,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shivathaya/LeetCodeSOls/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shivathaya/LeetCodeSOls/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivathaya/LeetCodeSOls/tree/master/0338-counting-bits) |
