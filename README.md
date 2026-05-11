@@ -380,6 +380,7 @@ My Leet code solutions
 | [0021-merge-two-sorted-lists](https://github.com/shivathaya/LeetCodeSOls/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivathaya/LeetCodeSOls/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivathaya/LeetCodeSOls/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
@@ -410,6 +411,7 @@ My Leet code solutions
 | [0098-validate-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivathaya/LeetCodeSOls/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
@@ -428,6 +430,7 @@ My Leet code solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivathaya/LeetCodeSOls/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -444,6 +447,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivathaya/LeetCodeSOls/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/shivathaya/LeetCodeSOls/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shivathaya/LeetCodeSOls/tree/master/0547-number-of-provinces) |
@@ -460,6 +464,7 @@ My Leet code solutions
 | [0098-validate-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivathaya/LeetCodeSOls/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivathaya/LeetCodeSOls/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shivathaya/LeetCodeSOls/tree/master/0199-binary-tree-right-side-view) |
