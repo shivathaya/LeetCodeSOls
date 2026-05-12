@@ -50,6 +50,7 @@ My Leet code solutions
 | [0283-move-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shivathaya/LeetCodeSOls/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
@@ -107,6 +108,7 @@ My Leet code solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathaya/LeetCodeSOls/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shivathaya/LeetCodeSOls/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivathaya/LeetCodeSOls/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
@@ -308,6 +310,7 @@ My Leet code solutions
 | [0118-pascals-triangle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/shivathaya/LeetCodeSOls/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/shivathaya/LeetCodeSOls/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
