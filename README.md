@@ -29,6 +29,7 @@ My Leet code solutions
 | [0068-text-justification](https://github.com/shivathaya/LeetCodeSOls/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shivathaya/LeetCodeSOls/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/shivathaya/LeetCodeSOls/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivathaya/LeetCodeSOls/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivathaya/LeetCodeSOls/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -220,6 +221,7 @@ My Leet code solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/shivathaya/LeetCodeSOls/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shivathaya/LeetCodeSOls/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0151-reverse-words-in-a-string) |
@@ -244,6 +246,7 @@ My Leet code solutions
 | [0016-3sum-closest](https://github.com/shivathaya/LeetCodeSOls/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivathaya/LeetCodeSOls/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/shivathaya/LeetCodeSOls/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
