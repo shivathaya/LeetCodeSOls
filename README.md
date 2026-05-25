@@ -55,6 +55,7 @@ My Leet code solutions
 | [0289-game-of-life](https://github.com/shivathaya/LeetCodeSOls/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivathaya/LeetCodeSOls/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/shivathaya/LeetCodeSOls/tree/master/0399-evaluate-division) |
@@ -194,6 +195,7 @@ My Leet code solutions
 | [0219-contains-duplicate-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shivathaya/LeetCodeSOls/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivathaya/LeetCodeSOls/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
@@ -250,6 +252,7 @@ My Leet code solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivathaya/LeetCodeSOls/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shivathaya/LeetCodeSOls/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shivathaya/LeetCodeSOls/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivathaya/LeetCodeSOls/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -507,6 +510,7 @@ My Leet code solutions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -563,6 +567,7 @@ My Leet code solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -602,6 +607,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shivathaya/LeetCodeSOls/tree/master/2336-smallest-number-in-infinite-set) |
 | [2542-maximum-subsequence-score](https://github.com/shivathaya/LeetCodeSOls/tree/master/2542-maximum-subsequence-score) |
@@ -609,6 +615,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -625,4 +632,8 @@ My Leet code solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
