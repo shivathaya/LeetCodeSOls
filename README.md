@@ -398,6 +398,7 @@ My Leet code solutions
 | [0138-copy-list-with-random-pointer](https://github.com/shivathaya/LeetCodeSOls/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivathaya/LeetCodeSOls/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shivathaya/LeetCodeSOls/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -408,6 +409,7 @@ My Leet code solutions
 | [0002-add-two-numbers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivathaya/LeetCodeSOls/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivathaya/LeetCodeSOls/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/shivathaya/LeetCodeSOls/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
