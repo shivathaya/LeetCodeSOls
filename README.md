@@ -83,6 +83,7 @@ My Leet code solutions
 | [1929-concatenation-of-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/1929-concatenation-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shivathaya/LeetCodeSOls/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivathaya/LeetCodeSOls/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -264,6 +265,7 @@ My Leet code solutions
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivathaya/LeetCodeSOls/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivathaya/LeetCodeSOls/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/shivathaya/LeetCodeSOls/tree/master/2542-maximum-subsequence-score) |
@@ -307,6 +309,7 @@ My Leet code solutions
 | [0605-can-place-flowers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/shivathaya/LeetCodeSOls/tree/master/0649-dota2-senate) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivathaya/LeetCodeSOls/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivathaya/LeetCodeSOls/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2542-maximum-subsequence-score](https://github.com/shivathaya/LeetCodeSOls/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
