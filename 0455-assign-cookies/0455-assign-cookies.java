@@ -11,11 +11,9 @@ class Solution {
         while(j<s.length && i<g.length){
             if(s[j] >= g[i]){
                 res++;
-                j++;
                 i++;
-            }else{
-                j++;
             }
+            j++;
         }
 
         return res;
