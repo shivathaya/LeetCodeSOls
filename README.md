@@ -71,6 +71,7 @@ My Leet code solutions
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/0747-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivathaya/LeetCodeSOls/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/shivathaya/LeetCodeSOls/tree/master/1036-rotting-oranges) |
@@ -130,6 +131,7 @@ My Leet code solutions
 | [0424-longest-repeating-character-replacement](https://github.com/shivathaya/LeetCodeSOls/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/0643-maximum-average-subarray-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivathaya/LeetCodeSOls/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivathaya/LeetCodeSOls/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -209,6 +211,7 @@ My Leet code solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/shivathaya/LeetCodeSOls/tree/master/0740-delete-and-earn) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0992-subarrays-with-k-different-integers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivathaya/LeetCodeSOls/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -531,6 +534,7 @@ My Leet code solutions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shivathaya/LeetCodeSOls/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivathaya/LeetCodeSOls/tree/master/0992-subarrays-with-k-different-integers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
