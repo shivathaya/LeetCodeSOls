@@ -20,6 +20,7 @@ My Leet code solutions
 | [0046-permutations](https://github.com/shivathaya/LeetCodeSOls/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivathaya/LeetCodeSOls/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivathaya/LeetCodeSOls/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/shivathaya/LeetCodeSOls/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivathaya/LeetCodeSOls/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shivathaya/LeetCodeSOls/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shivathaya/LeetCodeSOls/tree/master/0057-insert-interval) |
@@ -327,6 +328,7 @@ My Leet code solutions
 | [0005-longest-palindromic-substring](https://github.com/shivathaya/LeetCodeSOls/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shivathaya/LeetCodeSOls/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/shivathaya/LeetCodeSOls/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shivathaya/LeetCodeSOls/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivathaya/LeetCodeSOls/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivathaya/LeetCodeSOls/tree/master/0064-minimum-path-sum) |
@@ -588,6 +590,7 @@ My Leet code solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivathaya/LeetCodeSOls/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shivathaya/LeetCodeSOls/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivathaya/LeetCodeSOls/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivathaya/LeetCodeSOls/tree/master/0347-top-k-frequent-elements) |
