@@ -178,6 +178,7 @@ My Leet code solutions
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivathaya/LeetCodeSOls/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivathaya/LeetCodeSOls/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shivathaya/LeetCodeSOls/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2390-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2470-removing-stars-from-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivathaya/LeetCodeSOls/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shivathaya/LeetCodeSOls/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -305,6 +306,7 @@ My Leet code solutions
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/shivathaya/LeetCodeSOls/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivathaya/LeetCodeSOls/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2390-removing-stars-from-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivathaya/LeetCodeSOls/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
@@ -366,6 +368,7 @@ My Leet code solutions
 | [0394-decode-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shivathaya/LeetCodeSOls/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shivathaya/LeetCodeSOls/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shivathaya/LeetCodeSOls/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
